@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name            		= "CircleRating"
           #2.
-          s.version         		= "1.0.2"
+          s.version         		= "1.0.3"
           #3.  
           s.summary         		= "Circle Rating is a framework for using the rating view in circles"
           #4.
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
           #7.
           s.platform        		= :ios, "9.0"
           #8.
-          s.source          		= { :git => "https://github.com/pradeeprajkumar/CircleRating.git", :tag => "1.0.2" }
+          s.source          		= { :git => "https://github.com/pradeeprajkumar/CircleRating.git", :tag => "1.0.3" }
           #9.
           s.ios.vendored_frameworks 	= 'CircleRating.framework'          
     end
